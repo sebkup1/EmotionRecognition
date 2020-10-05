@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586025071041",
+    "firebase_url": "https://emotionrecognition-220f5.firebaseio.com",
+    "project_id": "emotionrecognition-220f5",
+    "storage_bucket": "emotionrecognition-220f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586025071041:android:4be0d7c7b8af3e213dbf40",
+        "android_client_info": {
+          "package_name": "com.skupis.emotionrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586025071041-p7939qvt26m25knoh70te4h0u5tlk3hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlI1IBarqt-Se82z5Yabq8j1vYRL2iFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586025071041-p7939qvt26m25knoh70te4h0u5tlk3hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
